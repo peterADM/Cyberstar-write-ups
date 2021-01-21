@@ -1,0 +1,8 @@
+Cyberstart:
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C1 Secret Caesar
+	
+They tell us that this is a ceaser cypher, so to get ready i open a new page (https://cryptii.com/pipes/caesar-cipher). 
+The breifing tells us the cipher is in the refrence and the quantity. and they als mention that the flag starts with bar. i went throught every one and found that 
+5, GFWXYJR is the cipher and the word is BARSTEW.

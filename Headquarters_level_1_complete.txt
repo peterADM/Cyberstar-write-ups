@@ -1,0 +1,133 @@
+Cyberstart:
+
+#########################################################
+ 	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C1 Secret Caesar
+#########################################################
+
+They tell us that this is a ceaser cypher, so to get ready i open a new page (https://cryptii.com/pipes/caesar-cipher). 
+The breifing tells us the cipher is in the refrence and the quantity. and they als mention that the flag starts with bar. i went throught every one and found that 
+5, GFWXYJR is the cipher and the word is BARSTEW.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C2 Social Secret
+#########################################################
+
+They give us the username and fav. color, its up to us to use that info to find out his age. in his username he has a year (1986) so im assuming that his age. 
+I subtract it with the current date (2021 - 1986 = 35). I input the name and it turned out to be correct and gave me the flag.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C3 Broken Banks
+#########################################################
+
+They want us to find out which email is a scammer. I read throught everyone and nothing looks wrong until i see a pattern thats broken. the first and third email 
+have their domain spelled correctly execpt the second one. there is an extra t in the domain
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C4 Happy Customers
+#########################################################
+
+They have a suspision that the numbers after the customers names are some sort of a encrypted message. With  numbers i drew a suspision to a substitution cipher 
+more importantly i though it was a letter number (A1Z26) cipher. so i inputed the number and it turn out to be correct but its a series of word that spelled out 
+"THE SCERET IS WHEEL" so i put wheel as the flag
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C5 Race To Where
+#########################################################
+
+They say that there might be something hiden within the page naturally i would go to the page source but i thought what if i highlight the whole page. And i found 
+a message that said "go to /secret/html". i did and found the flag.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C6 Tower of Wheels
+#########################################################
+
+So ive never done this puzzel before so i looked it up online and all i needed to do was move the tower to the right but bigger pieces cant be on to of each other. 
+so i did this ----->  https://student.cs.uwaterloo.ca/~cs106/Winter2018/labs/l06/hanoi_viz.png. and i got the flag.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C7 Horrible Hats
+#########################################################
+
+I looked at the RBG values and i had two ways to do this either use the individual rbg values and used the decimal to convert them to ASCII or the easier way 
+is that i used a website that converted all the values to hex and then converted that to ASCII to return this "the sec ret hat cod eis bot tle" 
+or "the secret hat code is bottle"
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C8 Mixed Messages
+#########################################################
+
+I looked at the encoded message and noticed that some of the letter were simple shuffled within the wod so the last three were blue or yellow so i entered BLUEYELLOW
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C9 Bike Fan
+#########################################################
+
+Since the pic wasnt showing up i inspected the page and hovered over the missing pic. and i noticed that in the image url there was no end file extension so i 
+added it by right clicking and edit as HTML and i added jpg after the dot and opened it.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C10 Executable
+#########################################################
+
+I looked at the file extensions and the only one that i noticed that was off was the .com extension since that is not normally used.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C11 Hidden Report
+#########################################################
+
+This one is very simple. i click the transactions page and in the url you can see which user isthe transaction for so i 
+simply changed it to user 1 aka the first customer.
+
+#########################################################
+	Base:      Headquarters
+	Level:	   01
+	Sub-Level: Briefing L1 C12 Binary Bike Lock
+#########################################################
+
+i just added the binary and converted it to decimal and inputed it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
